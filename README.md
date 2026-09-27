@@ -1,9 +1,9 @@
 # Awesome Norm
 
-收录基于 [Norm](https://github.com/normlanguage/Norm) 构建的优秀项目。
+[简体中文](README.zh-CN.md)
 
-A curated list of awesome projects built with Norm.
+A curated list of notable projects built with [Norm](https://github.com/normlanguage/Norm).
 
-## 项目
+## Projects
 
-等待收录。欢迎通过 Pull Request 推荐项目，附上项目链接和简短介绍。
+Projects are welcome. Recommend one by opening a pull request with its link and a brief description.

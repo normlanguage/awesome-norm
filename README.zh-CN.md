@@ -13,7 +13,7 @@
 ## UI
 
 - [ui](https://github.com/normlanguage/ui) — 用于声明式应用界面的组件、状态和协调框架。
-- [ui.fx.kit](https://github.com/normlanguage/ui.fx.kit) — 用于声明式 Norm 桌面应用的 JavaFX 控件库。
+- [ui.desktop.kit](https://github.com/normlanguage/ui.desktop.kit) — 用于声明式 Norm 桌面应用的 JavaFX 控件库。
 - [ui.web](https://github.com/normlanguage/ui.web) — 基于 Vaadin 构建浏览器应用，复用 Norm UI 的组件、状态、布局与主题。
 
 ## Web

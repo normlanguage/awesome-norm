@@ -13,7 +13,7 @@ A curated list of applications built with [Norm](https://github.com/normlanguage
 ## UI
 
 - [ui](https://github.com/normlanguage/ui) — Component, state and reconciliation framework for declarative application interfaces.
-- [ui.fx.kit](https://github.com/normlanguage/ui.fx.kit) — JavaFX controls for declarative Norm desktop applications.
+- [ui.desktop.kit](https://github.com/normlanguage/ui.desktop.kit) — JavaFX controls for declarative Norm desktop applications.
 - [ui.web](https://github.com/normlanguage/ui.web) — Vaadin-backed browser applications using Norm UI components, state, layouts and themes.
 
 ## Web

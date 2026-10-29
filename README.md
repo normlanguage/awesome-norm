@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A curated list of applications built with [Norm](https://github.com/normlanguage/Norm) and high-level libraries intended directly for application development. Low-level bindings, technical adapters, toolchains and distribution infrastructure are outside this list's scope.
+A curated directory of applications and high-level libraries built with [Norm](https://github.com/normlanguage/Norm). It is the discovery layer for the Norm ecosystem; language semantics, package requirements, and release automation remain owned by the linked canonical repositories.
 
 ## Applications
 
@@ -28,4 +28,6 @@ A curated list of applications built with [Norm](https://github.com/normlanguage
 
 - [orm](https://github.com/normlanguage/orm) — Application-facing persistence API with entity mapping, repositories, typed queries and pagination.
 
-Recommend projects within this scope by opening a pull request with a link and brief description.
+## Contribute
+
+Recommend a project that fits this scope by opening a pull request with its repository link and a brief description. Package maintenance requirements belong in [package-standards](https://github.com/normlanguage/package-standards); module ownership and release metadata belong in the [registry](https://github.com/normlanguage/registry).

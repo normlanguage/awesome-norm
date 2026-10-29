@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-收录基于 [Norm](https://github.com/normlanguage/Norm) 构建的应用软件，以及直接面向应用开发的高层库。不收录底层绑定、技术适配器、工具链或发行基础设施。
+收录基于 [Norm](https://github.com/normlanguage/Norm) 构建的应用软件，以及直接面向应用开发的高层库。这里是 Norm 生态的发现入口；语言语义、包规范和发布自动化仍由对应的规范仓库维护。
 
 ## 应用
 
@@ -28,4 +28,6 @@
 
 - [orm](https://github.com/normlanguage/orm) — 面向应用开发的持久化 API，提供实体映射、Repository、类型化查询和分页。
 
-欢迎通过 Pull Request 推荐符合收录范围的项目，附上项目链接和简短介绍。
+## 参与贡献
+
+欢迎通过 Pull Request 推荐符合收录范围的项目，附上项目链接和简短介绍。包维护要求见 [package-standards](https://github.com/normlanguage/package-standards)，模块所有权和发布元数据见 [registry](https://github.com/normlanguage/registry)。
